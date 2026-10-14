@@ -155,7 +155,7 @@ Install the following software before running the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mohanlalcoder/quickbite.git
+git clone https://github.com/mohanlalcoder/Food_Order_Management_System.git
 cd quickbite
 ```
 
